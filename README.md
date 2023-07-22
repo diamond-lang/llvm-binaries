@@ -1,2 +1,2 @@
-# llvm-binaries
-Prebuilt versions of llvm for plataforms that diamond supports
+# LLVM binaries
+Prebuilt versions of llvm and lld for plataforms that diamond supports
